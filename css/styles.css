@@ -1,0 +1,49 @@
+.centrado {
+    text-align: center;
+    background-color: #b8b9ff;
+    color: rgba(0, 17, 255, 0.829);
+}
+.centrado1 {
+    text-align: center;
+}
+ 
+         body {
+             background-color: #3edfd7dc; 
+         }
+     
+         .texto-abajo {
+             margin-top: 15px; /* Aumenta el espacio aquí */
+         }
+
+         h3, p {
+            font-family: helvetica;
+         }
+
+         h3.element {
+            background-color: #374bffdc;                         
+        }
+        body {
+            margin: 20px; /* Cambia el valor para ajustar el margen */
+        }
+        h3 + p {
+            color: blue;
+            font-size: 18px;
+        }
+        .imagen1 {
+            position: absolute; /* Posiciona la imagen de forma absoluta */
+            top: 120px;   /* Distancia desde la parte superior de la página */
+            left: 450px;   /* Distancia desde la parte izquierda de la página */
+            width: 300px; /* Ajusta el tamaño de la imagen */
+        }
+        .imagen2 {
+            position: absolute; /* Posiciona la imagen de forma absoluta */
+            top: 120px;   /* Distancia desde la parte superior de la página */
+            left: 800px;   /* Distancia desde la parte izquierda de la página */
+            width: 500px; /* Ajusta el tamaño de la imagen */
+        }
+        .imagen3 {
+            position: absolute; /* Posiciona la imagen de forma absoluta */
+            top: 170px;   /* Distancia desde la parte superior de la página */
+            left: 500px;   /* Distancia desde la parte izquierda de la página */
+            width: 600px; /* Ajusta el tamaño de la imagen */
+        }
